@@ -14,9 +14,11 @@ The dataset includes the following columns:
 - Quantity: The quantity of product sold.
 - Unit Price: The exact price for each unit of products.
 
-
-### Data Quality and Preparation
-
+### Data Cleaning and Preparation
+In the initial stage of Cleaning this data and preparations, we performed the following actions
+1. Data Loading and Inspection
+2. Removing Duplicates in the dataset
+3. Data Cleaning and formatting
 
 ### Tools Used
 - Microsoft Excel [Download Here](https://www.microsoft.com)
@@ -28,5 +30,7 @@ The dataset includes the following columns:
 - Power BI for Visualization
 - GitHub for Portfolio Building
    
+### 
 
+   
 
