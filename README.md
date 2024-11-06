@@ -48,9 +48,6 @@ This project aims to address the following analysis goals;
 - Find the top 5 customers by total purchase amount
 - Calculate the percentage of total sales contributed by each region
 - Identify Products with no sales in the last quarter
-- 
-   
-
    
 ### Exploratory Data Analysis [EDA]
 ---
@@ -62,11 +59,20 @@ EDA involves the exploring of the Data to answer some questions about the Data s
 
 ### Data Analysis
 ---
-At this point was where we included some basic lines of function in Excel, some queries in SQL and even some DAX [Data Analysis Expression] functions were used in the analysis;
+At this point was where we included some basic lines of function in Excel, some queries in SQL and even some DAX [Data Analysis Expression] functions were used in the analysis
 
-```Excel
-Total Revenue = [@Quantity] * [@Unit_Price]
-
+### Insights
+---
+- Total sales per product: Sum of the Unit_Price column, grouped by product
+- Sales transactions by region: Count of Order Id column,grouped by Region
+- Highest selling product by total sales value: selected the top 1 from product summing Unit_Price as Total Sales grouped by product,order by Total Sales in Descending order
+- Total Revenue per product: Sum of Unit_Price as Total Revenue, grouped by Product
+- Monthly Sales Total by current year: Selected the month from OrderDate column as Month, Sum of Unit_Price as MonthlySales where year equals current yea, grouped by Month, Order by Month
+- Top 5 customers by total purchase amount: Selected the top 5 from CustomerId column, sum of Unit_Price column as TotalPurchase, grouped by CustomerId, order by TotalPurchase in Descending order
+- Total Sales Percentage by Region: Selected sum of Unit_Price column as TotalSalesAmount, selected Region then sum of Unit_Price column as RegionSales, grouped by Region
+- Products without sales in last Quarter: Selected Product column from the dataset, grouped by Product column having maximum in OrderDate column lessthan Dateadd and Quarter
+  
+ 
 
 
 
