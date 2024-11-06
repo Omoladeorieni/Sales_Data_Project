@@ -1,5 +1,26 @@
 # Sales_Data_Project
 
+[Project Overview](#project-overview)
+
+[Data Collected](#data-collected)
+
+[Data Cleaning and Preparation](#data-cleaning-and-preparation)
+
+[Tools Used](#tools-used)
+
+[Project Objective](#project-objective)
+
+[Exploratory Data Analysis](#exploratory-data-analysis)
+
+[Data Analysis](#data-analysis)
+
+[Insights](#insights)
+
+[Visualization](#visualization)
+
+[Conclusion](#conclusion)
+
+
 ### Project Overview
 ---
 This project generates sales performance of a retail store by different regions. By analysing the various parameters in the data received, we seek to gather enough insight such as top selling products, regional performance and monthly sales trend. The goal is to enable us tell compelling stories that highlights all of the insights gathered.
@@ -49,7 +70,7 @@ This project aims to address the following analysis goals;
 - Calculate the percentage of total sales contributed by each region
 - Identify Products with no sales in the last quarter
    
-### Exploratory Data Analysis [EDA]
+### Exploratory Data Analysis
 ---
 EDA involves the exploring of the Data to answer some questions about the Data such as;
 
@@ -71,9 +92,11 @@ At this point was where we included some basic lines of function in Excel, some 
 - Top 5 customers by total purchase amount: Selected the top 5 from CustomerId column, sum of Unit_Price column as TotalPurchase, grouped by CustomerId, order by TotalPurchase in Descending order
 - Total Sales Percentage by Region: Selected sum of Unit_Price column as TotalSalesAmount, selected Region then sum of Unit_Price column as RegionSales, grouped by Region
 - Products without sales in last Quarter: Selected Product column from the dataset, grouped by Product column having maximum in OrderDate column lessthan Dateadd and Quarter
-  
- 
 
+
+### Visualization
+
+### Conclusion
 
 
    
