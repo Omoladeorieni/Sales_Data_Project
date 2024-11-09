@@ -98,6 +98,19 @@ At this point was where we included some basic lines of function in Excel, some 
 ---
 https://github.com/Omoladeorieni/Sales_Data_Project/blob/main/Screenshot%20(16).png
 
+https://github.com/Omoladeorieni/Sales_Data_Project/blob/main/Screenshot%20(17).png
+
+https://github.com/Omoladeorieni/Sales_Data_Project/blob/main/Screenshot%20(18).png
+
+https://github.com/Omoladeorieni/Sales_Data_Project/blob/main/Screenshot%20(19).png
+
+https://github.com/Omoladeorieni/Sales_Data_Project/blob/main/Screenshot%20(21).png
+
+https://github.com/Omoladeorieni/Sales_Data_Project/blob/main/Screenshot%20(22).png
+
+https://github.com/Omoladeorieni/Sales_Data_Project/blob/main/Screenshot%20(23).png
+
+
 ### Conclusion
 
 
