@@ -96,7 +96,7 @@ At this point was where we included some basic lines of function in Excel, some 
 
 ### Visualization  
 ---
-
+https://github.com/Omoladeorieni/Sales_Data_Project/blob/main/Screenshot%20(16).png
 
 ### Conclusion
 
