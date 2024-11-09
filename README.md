@@ -112,6 +112,7 @@ https://github.com/Omoladeorieni/Sales_Data_Project/blob/main/Screenshot%20(23).
 
 
 ### Conclusion
+---
 
 The sales data shows analysis shows a trend of sales in all the regions but with a higher sales in the North amongst all regions with more sales on products like the shoes and shirt. The sales in the West tend to be the lowest with a lower sales on socks products as well. Addressing problems that might be affecting sales in the West will be crucial for the growth of sales in this region as well as working towards promoting the socks product is important.
    
