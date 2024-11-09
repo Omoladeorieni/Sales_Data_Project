@@ -94,7 +94,9 @@ At this point was where we included some basic lines of function in Excel, some 
 - Products without sales in last Quarter: Selected Product column from the dataset, grouped by Product column having maximum in OrderDate column lessthan Dateadd and Quarter
 
 
-### Visualization
+### Visualization  
+---
+
 
 ### Conclusion
 
